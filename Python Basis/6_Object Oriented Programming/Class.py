@@ -15,7 +15,7 @@ p1 = Person(name='Aleyna', year=2006)  # Creating a Person object 'p1' with name
 p2 = Person(name='Eren', year=2003)  # Creating another Person object 'p2' with name 'Eren' and year 2003.
 
 # Updating the attributes of the objects
-p1.name = 'Sametcan'  # Changing 'p1' name from 'Ali' to 'Ahmet'.
+p1.name = 'Sametcan'  # Changing 'p1' name from 'Aleyna' to 'Sametcan'.
 p1.address = 'Van'  # Changing the 'address' of 'p1'. Note: even though 'address' is a class attribute, we can change it for 'p1' only.
 
 # Accessing and printing object attributes
